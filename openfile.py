@@ -1,6 +1,8 @@
 import sys
 import re
+#import sqlite3
 import json
+import pandas
 
 
 def linetokey(line):
@@ -32,14 +34,47 @@ def printlines(fn, num=20):
     for i in range(num):
         print f.readline()
     return
-    
+
+
+def write_file(fn, fout, keylist):
+    f = open(fn, 'r')
+    g = open(fout, 'w')
+
+    for key in keylist:
+        #separate with crazy delimiter unlikely to appear in user-entered content
+        g.write(key+'\t!\t')
+    g.write('\n')
+
+    for line in f:
+         match = re.search(r'[a-z]+/([a-zA-Z]+):\s(.+)', line)
+         if match:
+             if match.group(1) in keylist:
+                 #use same crazy delimiter
+                 g.write(match.group(2)+'\t!\t')
+         else:
+             g.write('\n')
+
+    f.close()
+    g.close()
+
 
 def main():
     fn = 'foods.txt'
-    printlines(fn)
-    keylist = getkeys(fn)
-    print 'List of unique keys:', keylist
+    fout = 'foods.csv'
+    
+#    in case we want to load data into a SQL database before a PANDAS data frame:
+#
+#    fdb = sqlite3.connect('foods.db')
+#    c = fdb.cursor()
+#    fdb.commit()
+#    fdb.close()
 
+#    printlines(fn)
+    keylist = getkeys(fn)
+#    print 'List of unique keys:', keylist
+    write_file(fn, fout, keylist)
+    df = pandas.io.parsers.read_table(fout, '\t!\t')
+#    print df[:10]
 
 if __name__ == '__main__':
     main()
