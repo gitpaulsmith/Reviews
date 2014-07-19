@@ -39,20 +39,23 @@ def printlines(fn, num=20):
 def write_file(fn, fout, keylist):
     f = open(fn, 'r')
     g = open(fout, 'w')
-
+    
+    writestr = ''
     for key in keylist:
         #separate with crazy delimiter unlikely to appear in user-entered content
-        g.write(key+'\t!\t')
-    g.write('\n')
+        writestr += key+'\t!\t'
+    g.write(writestr[:-3] + '\n')
 
+    writestr = ''
     for line in f:
          match = re.search(r'[a-z]+/([a-zA-Z]+):\s(.+)', line)
          if match:
              if match.group(1) in keylist:
                  #use same crazy delimiter
-                 g.write(match.group(2)+'\t!\t')
+                 writestr += match.group(2)+'\t!\t'
          else:
-             g.write('\n')
+             g.write(writestr[:-3] + '\n')
+             writestr = ''
 
     f.close()
     g.close()
