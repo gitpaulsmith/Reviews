@@ -31,16 +31,28 @@ def getkeys(fn):
     return keylist
 
 
+def validate(line, keylist):
+    #Simple check to see if string holds correct number of entries
+    matches = re.findall(r'\t!\t', line)
+    if len(matches)==len(keylist)-1:
+        return True
+    else:
+#        print('read error')
+        return False
+
+
 def write_file(fn, fout, keylist):
     f = open(fn, 'r')
     g = open(fout, 'w')
   
+    #Creates index
     writestr = ''
     for key in keylist:
       #separate with crazy delimiter unlikely to appear in user-entered content
       writestr += key+'\t!\t'
     g.write(writestr[:-3] + '\n')
-  
+
+    #Writes data from file
     writestr = ''
     for line in f:
       match = re.search(r'[a-z]+/([a-zA-Z]+):\s(.+)', line)
@@ -49,7 +61,9 @@ def write_file(fn, fout, keylist):
           #use same crazy delimiter
           writestr += match.group(2)+'\t!\t'
       else:
-        g.write(writestr[:-3] + '\n')
+        writestr = writestr[:-3] + '\n'
+        if validate(writestr, keylist):
+          g.write(writestr)
         writestr = ''
   
     f.close()
