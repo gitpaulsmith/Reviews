@@ -1,0 +1,402 @@
+(dp0
+S'B008JKSJJ2'
+p1
+VFFP KIND PLUS, Cranberry Almond + Antioxidants, Gluten Free Bars 1.4 OZ (Pack of 12)
+p2
+sS'B004FGWU9O'
+p3
+VWolfgang Puck Coffee, Jamaica Me Crazy, K-Cups for Keurig Brewers, 24-Count
+p4
+sS'B001D0DMMY'
+p5
+VFFP KIND PLUS, Almond Walnut Macadamia + Protein, Gluten Free Bars (Pack of 12)
+p6
+sS'B00451WLYI'
+p7
+VStarbucks VIA Ready Brew Coffee, Decaf Italian Roast, Extra Bold, 3-Count Packets (Pack of 6)
+p8
+sS'B001D0DMME'
+p9
+VFFP KIND PLUS, Cranberry Almond + Antioxidants, Gluten Free Bars 1.4 OZ (Pack of 12)
+p10
+sS'B003VXHGE6'
+p11
+VWolfgang Puck Coffee, Breakfast in Bed (Medium Roast), 24-Count K-Cups for Keurig Brewers (Pack of 2)
+p12
+sS'B004SRH2B6'
+p13
+VZICO Pure Premium Coconut Water, Natural, 33.8 Ounce Container (Pack of 6)  Packaging May Vary
+p14
+sS'B000H0ZJIG'
+p15
+VZuke's Mini Naturals Dog Treats
+p16
+sS'B007M83302'
+p17
+VPopchips, Thai Sweet Chili, 0.8-Ounce Single Serve Bags (Pack of 24)
+p18
+sS'B0013NUGDE'
+p19
+VPopchips, Sea Salt & Vinegar, 3-Ounce Bags (Pack of 12)
+p20
+sS'B007JFMH8M'
+p21
+VQuaker Soft Baked Oatmeal Cookie, Raisins, 8.8-Ounce (Pack of 12)
+p22
+sS'B003B3OOPA'
+p23
+VNature's Way Coconut Oil, 16 Ounce
+p24
+sS'B008JKU2CO'
+p25
+VFFP KIND PLUS, Peanut Butter Dark Chocolate + Protein, Gluten Free Bars (Pack of 12)
+p26
+sS'B000BRR8VQ'
+p27
+VZuke's Mini Naturals Dog Treats
+p28
+sS'B003Z6ZGZK'
+p29
+VStarbucks VIA Ready Brew Coffee, Italian, 3-Count Packets (Pack of 6)
+p30
+sS'B004EAGP74'
+p31
+VNutiva Organic Virgin Coconut Oil, 54-Ounce Jar
+p32
+sS'B0051COPH6'
+p33
+VBaby Gourmet Organic Simple Purees Stage 1(6 Months+) Juicy Pear and Garden Greens Baby Food, 3.5-Ounce Pouches (Pack of 12)
+p34
+sS'B001AS1A4Q'
+p35
+V5 Hour Energy Berry, 2-Ounce Bottles (Pack of 12)
+p36
+sS'B0029XLH4Y'
+p37
+VKeurig, Coffee People, Jet Fuel, 50 Count K-Cup Packs
+p38
+sS'B003TC7WN4'
+p39
+VWolfgang Puck Coffee, Breakfast in Bed (Medium Roast),  24-Count K-Cups for Keurig Brewers
+p40
+sS'B0026RQTGE'
+p41
+VGreenies Treat-Pak for Dogs, Original
+p42
+sS'B006HYLW32'
+p43
+VPopchips Potato Chips, Sweet Potato, 0.8-Ounce Single Serve Bags (Pack of 24)
+p44
+sS'B007I7YZJK'
+p45
+VLipton To Go Stix Decaf Iced Green Tea Mix, Tea and Honey, Strawberry Acai, 10-Count (Pack of 12)
+p46
+sS'B000H0ZJHW'
+p47
+VZuke's Mini Naturals Dog Treats
+p48
+sS'B005K4Q37A'
+p49
+VGrove Square Cappuccino, Caramel, 12-Count Single Serve Cup for Keurig K-Cup Brewers (Pack of 3)
+p50
+sS'B002IEZJMA'
+p51
+Villy issimo Coffee Drink, Caffè, 6.8-Ounce Cans (Pack of 12)
+p52
+sS'B000VK8AVK'
+p53
+VPopchips, Barbeque,  3-Ounce Bags (Pack of 12)
+p54
+sS'B003TNANSO'
+p55
+VKind Bar Plus: Peanut Butter Dark Chocolate PLUS Protein; Box of 12
+p56
+sS'B001VJ0B0I'
+p57
+VPurina Beneful Dog Food, 15.5 Pound
+p58
+sS'B005ZBZLT4'
+p59
+VSan Francisco Bay Coffee Fog Chaser, 12-Count OneCup Single Serve Cups (Pack of 3)
+p60
+sS'B006N3HZ6K'
+p61
+VCoffee People Dark Roast, Jet Fuel, K-Cup Portion Pack for Keurig Brewers 24-Count
+p62
+sS'B0018KR8V0'
+p63
+VLARABAR Fruit & Nut Food Bar, Key Lime Pie, Gluten Free 1.8 oz (Pack of 16)
+p64
+sS'B006MONQMC'
+p65
+VVitamin Squeeze Energy Drink, Fruit Punch, 12-Ounce (Pack of 4)
+p66
+sS'B003D4MYLS'
+p67
+VStash Tea Double Bergamot Earl Grey Tea, 100 Count Box of Tea Bags in Foil
+p68
+sS'B0013A0QXC'
+p69
+VSenseo Coffee Pods, Espresso,16 Count (Pack of 6)
+p70
+sS'B003QNJYXM'
+p71
+V5 Hour Energy Extra Strength, Berry Flavored, 1.93-Ounce Bottles (Pack of 12)
+p72
+sS'B0007A0AQW'
+p73
+VZuke's Mini Naturals Dog Treats
+p74
+sS'B002QWP8H0'
+p75
+VGreenies LITE Treat-Pak for Dogs
+p76
+sS'B004GW6O9E'
+p77
+VLARABAR Fruit & Nut Food Bar, Peanut Butter Cookie, Gluten Free 1.7oz Bars (Pack of 16)
+p78
+sS'B0007A0AQM'
+p79
+VZuke's Mini Naturals Dog Treats
+p80
+sS'B005K4Q1YA'
+p81
+VGrove Square Cappuccino, French Vanilla, 24-Count Single Serve Cup for Keurig K-Cup Brewers
+p82
+sS'B000CNB4LE'
+p83
+VZICO Pure Premium Coconut Water, Mango, 11.2 Ounce Tetra Paks (Pack of 12)
+p84
+sS'B000PDY3P0'
+p85
+VGreat Northern Popcorn, 4-Ounce Portion Packs (Pack of 24)
+p86
+sS'B000H1217M'
+p87
+VZuke's Mini Naturals Dog Treats
+p88
+sS'B006N3IE6A'
+p89
+VWolfgang Puck Coffee, Rodeo Drive Blend (Medium Roast), 24-Count K-Cups for Keurig Brewers
+p90
+sS'B008JKTTUA'
+p91
+VFFP KIND PLUS, Dark Chocolate Cherry Cashew + Antioxidants, Gluten Free Bars (Pack of 12)
+p92
+sS'B003D4IYSU'
+p93
+VStash Tea Chamomile Nights Herbal Tea, 100 Count Box of Tea Bags in Foil
+p94
+sS'B002QWP89S'
+p95
+VGreenies LITE Treat-Pak for Dogs
+p96
+sS'B001RVFERK'
+p97
+VPopchips, Sea Salt & Vinegar, 0.8-Ounce Single Serve Bags (Pack of 24)
+p98
+sS'B003VXFK44'
+p99
+VWolfgang Puck Coffee, Chef's Reserve Colombian Decaf (Medium Roast), 24-Count K-Cups for Keurig Brewers (Pack of 2)
+p100
+sS'B000PDY3HI'
+p101
+VGreat Northern Popcorn, 8-Ounce Portion Packs (Pack of 24)
+p102
+sS'B004SRFYMK'
+p103
+VZICO Pure Premium Coconut Water, Chocolate, 14 Ounce Bottles (Pack of 12)
+p104
+sS'B003CIBPN8'
+p105
+VZICO Pure Premium Coconut Water, Natural, 14 Ounce Bottles (Pack of 12)
+p106
+sS'B005K4Q4LK'
+p107
+VGrove Square Cappuccino, French Vanilla, 18-Count Single Serve Cup for Keurig K-Cup Brewers (Pack of 3)
+p108
+sS'B008JKTH2A'
+p109
+VFFP KIND PLUS, Almond Walnut Macadamia + Protein, Gluten Free Bars (Pack of 12)
+p110
+sS'B003D4F1QS'
+p111
+VStash Tea Decaf Premium Green Tea, 100 Count Box of Tea Bags in Foil
+p112
+sS'B003VXHGPK'
+p113
+VWolfgang Puck Coffee, Chef's Reserve Colombian (Dark Roast), 24-Count K-Cups for Keurig Brewers (Pack of 2)
+p114
+sS'B008J1HO4C'
+p115
+VMccann's Steel Cut Oatmeal, 28-Ounce Tin (Pack of 4)
+p116
+sS'B005HG9ET0'
+p117
+VEssentia 9.5 pH Drinking Water, 1.5 Liter, (Pack of 12)
+p118
+sS'B001D09KAM'
+p119
+VKIND PLUS, Mango Macadamia + Calcium, Gluten Free Bars (Pack of 12)
+p120
+sS'B0018KLPFK'
+p121
+VLARABAR Fruit & Nut Food Bar, Coconut Cream Pie, Gluten Free 1.7 oz  Bars (Pack of 16)
+p122
+sS'B001LGGH40'
+p123
+VThe Switch Sparkling Juice, Kiwi Berry, 8-Ounce Cans (Pack of 24)
+p124
+sS'B0026KNQSA'
+p125
+VPopchips, Sour Cream & Onion, 0.8-Ounce Single Serve Bags (Pack of  24)
+p126
+sS'B000NMJWZO'
+p127
+VPamela's Ultimate Baking and Pancake Mix, 4-Pound Bags (Pack of 3)
+p128
+sS'B000PDWBKO'
+p129
+VGreat Northern Popcorn, 6-Ounce Portion Packs (Pack of 24)
+p130
+sS'B000UBD88A'
+p131
+VSenseo Coffee Pods, Dark Roast,18 Count (Pack of 6), 26.46 Ounce
+p132
+sS'B001E8DHPW'
+p133
+VNutiva Organic Virgin Coconut Oil, 15 Ounce
+p134
+sS'B000ENUC3S'
+p135
+VLARABAR Fruit & Nut Food Bar, Apple Pie, Gluten Free1.6 oz Bars (Pack of 16)
+p136
+sS'B002LANN56'
+p137
+VPurina Chef Michael's Dog Food
+p138
+sS'B007M832YY'
+p139
+VPopchips, Thai Sweet Chili, 3-Ounce Bags (Pack of 12)
+p140
+sS'B0029ZAOW8'
+p141
+V5-Hour Energy -  Berry 1.93-Ounce Packages (Pack of 12)
+p142
+sS'B000KV7ZGQ'
+p143
+VPetSafe Busy Buddy Tug-A-Jug Meal Dispensing Dog Toy
+p144
+sS'B000GAT6NG'
+p145
+VNutiva Organic Virgin Coconut Oil, 54-Ounce Jar
+p146
+sS'B006N3IG4K'
+p147
+VWolfgang Puck Coffee, Vienna Coffee House (Medium Roast), 24-Count K-Cups for Keurig Brewers
+p148
+sS'B001LG945O'
+p149
+VThe Switch Sparkling Juice, Orange Tangerine, 8-Ounce Cans (Pack of 24)
+p150
+sS'B003VXL0V6'
+p151
+VWolfgang Puck Coffee, Jamaica Me Crazy, 24-Count K-Cups for Keurig Brewers (Pack of 2)
+p152
+sS'B007Y59HVM'
+p153
+VSan Francisco Bay Coffee Fog Chaser, 80 OneCup Single Serve Cups
+p154
+sS'B002YJ0118'
+p155
+VGreat Northern Popcorn, 2.5-Ounce Portion Packs (Pack of 24)
+p156
+sS'B007TJGY46'
+p157
+VCoffee People Jet Fuel Coffee, Extra Bold, K-Cup Portion Pack for Keurig Brewers 96-Count
+p158
+sS'B001RVFEP2'
+p159
+VPopchips, Salt & Pepper, 0.8-Ounce Single Serve Bags (Pack of 24)
+p160
+sS'B00438XVGU'
+p161
+VStarbucks VIA® Ready Brew Colombia Coffee (50 count)
+p162
+sS'B007I7Z3Z0'
+p163
+VLipton To Go Stix Iced Black Tea Mix, Tea and Honey, Lemon, 10Count (Pack of 12)
+p164
+sS'B008FHUGNQ'
+p165
+VCoffee People Jet Fuel, Dark Roast, K-Cup for Keurig Brewers, 24-Count (Pack of 2)
+p166
+sS'B0090X8IPM'
+p167
+VStarbucks Natural Fusions Ground Coffee, Vanilla Flavored, 11 Ounce (Pack of 6)
+p168
+sS'B003QNLUTI'
+p169
+V5 Hour Energy Grape, 1.93-Ounce Bottles (Pack of 12)
+p170
+sS'B001LG940E'
+p171
+VThe Switch Sparkling Juice, Black Cherry, 8-Ounce Cans (Pack of 24)
+p172
+sS'B005HG9ESG'
+p173
+VEssentia 9.5 pH Drinking Water, 1 Liter, (Pack of 12)
+p174
+sS'B003D4MW38'
+p175
+VStash Tea Peppermint Herbal Tea, 100 Count Box of Tea Bags in Foil
+p176
+sS'B0041NYV8E'
+p177
+VGold Kili All Natural Instant Ginger & Lemon Beverage Mix, 6.72-Ounce Boxes (Pack of 6)
+p178
+sS'B003Z6W32E'
+p179
+VStarbucks VIA Ready Brew Coffee, Colombia Medium, 3- Count Packets (Pack of 6)
+p180
+sS'B003VXHGDM'
+p181
+VWolfgang Puck Coffee, Crème Caramel, 24-Count K-Cups for Keurig Brewers (Pack of 2)
+p182
+sS'B002QWHJOU'
+p183
+VGreenies LITE Treat-Pak for Dogs
+p184
+sS'B001EO5Q64'
+p185
+VNutiva Organic Extra Virgin Coconut Oil, 15-Ounce (Pack of 2)
+p186
+sS'B001EO5U3I'
+p187
+VMccann's Steel Cut Oatmeal, 28-Ounce Tin (Pack of 4)
+p188
+sS'B005K4Q34S'
+p189
+VGrove Square Cappuccino, French Vanilla, 12-Count Single Serve Cup for Keurig K-Cup Brewers (Pack of 3)
+p190
+sS'B0026KPDG8'
+p191
+VPopchips, Cheddar, 0.8-Ounce Single Serve Bags (Pack of  24)
+p192
+sS'B005HG9ERW'
+p193
+VEssentia 9.5 pH Drinking Water, 20-Ounce (Pack of 24)
+p194
+sS'B003GTR8IO'
+p195
+VStarbucks Natural Fusions Ground Coffee, Vanilla Flavored, 11-Ounce Packages (Pack of 2)
+p196
+sS'B000KV61FC'
+p197
+VPetSafe Busy Buddy Tug-A-Jug Meal Dispensing Dog Toy
+p198
+sS'B002IEVJRY'
+p199
+Villy issimo Coffee Drink, Cappuccino, 8.45-Ounce Cans (Pack of 12)
+p200
+s.
