@@ -18,7 +18,7 @@ def linetokey(line):
 def getkeys(fn):
     #find unique keys in data
     keylist = []
-    f = open(fn,'r')
+    f = open(fn,'rb')
   
     for line in f:
       try:
@@ -42,7 +42,7 @@ def validate(line, keylist):
 
 
 def write_file(fn, fout, keylist):
-    f = open(fn, 'r')
+    f = open(fn, 'rb')
     g = open(fout, 'w')
   
     #Creates index
