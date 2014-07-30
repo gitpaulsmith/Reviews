@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+
+<link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/star-rating.min.css') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+
+
+<html>
+  <head>
+    <title>Sentiment Analysis</title>    
+  </head>
+  <body>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="{{ url_for('static' , filename='js/bootstrap.min.js') }}"></script>
+    <script src="{{ url_for('static' , filename='js/star-rating.min.js') }}"></script>
+
+   
+   
+    <header>
+      <div class="container">
+        <h1 class="logo">Sentiment Analysis on Amazon.com product reviews</h1>
+        <h2></h2>
+        <strong><nav>
+        <ul class="menu">
+        <li><a href="{{ url_for('home') }}">Home</a></li>
+        <li><a href="{{ url_for('about') }}">About</a></li>
+      </ul>
+    </nav></strong>
+      </div>
+      
+    </header> 
+     
+    <div class="container">
+      {% block content %}
+      {% endblock %}
+    </div>
+  
+  </body>
+</html>

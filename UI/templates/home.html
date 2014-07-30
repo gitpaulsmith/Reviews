@@ -1,0 +1,63 @@
+{% extends "layout.html" %}
+{% block content %}
+ 
+  <div class="jumbo">
+    <h2>Star rating predictor<h2>
+    <h3>{{text}}</h3>
+
+    {% if showScores %}
+    <div class="chartSection">
+    	<div id={{ chartID|safe }} class="chart"></div>
+		<script>
+			var chart_id = {{ chartID|safe }}
+			var series = {{ series|safe }}
+			var title = {"text": 'Your Prediction vs Ours'}
+			var xAxis = {"categories": ['Your Prediction', 'Our Prediction']}
+			var yAxis = {"title": {"text": 'Accuracy Score'}}
+			var chart = {{ chart|safe }}
+		</script>
+			<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+			<script src="http://code.highcharts.com/highcharts.js"></script>
+			<script src="../static/js/main.js"></script>
+    </div>
+    {% endif %}
+
+    <form id='reviewrating' action="/results" method="post">
+
+        <ul>
+    {% for review in reviews %}
+    	<li>
+    		<div class="singleReview">
+    		<div class="reviewText" id="reviewText-{{loop.index}}">{{ review }}</div>
+
+    		<div class="reviewRatings">
+    		<div class="userRating">Your Guess:<input name ="input-{{loop.index}}" {% if showScores %} value={{UserRatings[loop.index-1]}} data-readonly="true" {% else %} value="0" data-readonly="false" {% endif %} class="rating" data-showCaption="false" data-min="0" data-max="5" data-step="1" data-stars=5 
+    data-glyphicon="false" data-size="sx"  data-showClear="false">
+    		</div>
+    		{% if showScores %}
+    		<div class="ourRating">Our Guess:<input name ="ourRating-{{loop.index}}" value={{OurRatings[loop.index-1]}} data-readonly="true" class="rating" data-showCaption="false" data-min="0" data-max="5" data-step="1" data-stars=5 
+    data-glyphicon="false" data-size="sx"  data-showClear="false">
+    		</div>
+    		<div class="actualRating">The actual rating:<input name="realrating-{{loop.index}}" value={{scores[loop.index-1]}} class="rating" data-showCaption="false" data-min="0" data-max="5" data-step="1" data-stars=5 data-glyphicon="false" data-size="sx"  data-readonly="true">
+    		</div>
+    		{% endif %}
+    		</div>
+    		</div>
+    	</li>
+   		
+    {% endfor %}
+    </ul>
+    {% if (not showScores) %}
+    <div class="inputButton">
+    <input type="submit" value="Submit" id="submit">
+    </div>
+    {% endif %}
+
+    </form>
+
+  </div>
+  <div>
+ 
+  </div>
+
+{% endblock %}
