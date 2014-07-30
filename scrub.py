@@ -6,8 +6,8 @@ import argparse
 #Similar to correctCSV.py
 
 def simple_scrub(fin, fout):
-  f = open(fin, 'r')
-  g = open(fout, 'w')
+  f = open(fin, 'rb')
+  g = open(fout, 'wb')
 
   for line in f:
     filter(lambda x: x in string.printable, line)
